@@ -49,7 +49,7 @@ export default function Product({ product }: ProductProps) {
   return (
     <>
       <Head>
-        <title>{product.name} | App Shop</title>
+        <title>{product.name} | T-Shirt Shop</title>
       </Head>
 
       <ProductContainer>

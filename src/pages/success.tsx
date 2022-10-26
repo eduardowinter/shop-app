@@ -19,7 +19,7 @@ export default function Success({ customerName, product }: SuccessProps) {
   return (
     <>
       <Head>
-        <title>Purchase Completed | App Shop</title>
+        <title>Purchase Completed | T-Shirt Shop</title>
 
         <meta name="robots" content="noindex" />
       </Head>
